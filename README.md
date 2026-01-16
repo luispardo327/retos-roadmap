@@ -1,5 +1,5 @@
-# retos-roadmap
+# Single-Page CV
 
-Este repositorio contiene mis soluciones a los retos de Frontend.
+This is my solution to the Single-page CV project from roadmap.sh.
 
-URL del proyecto: https://luispardo327.github.io/retos-roadmap/Single-Page%20CV/
+Project URL: https://luispardo327.github.io/retos-roadmap/Single-Page%20CV/
